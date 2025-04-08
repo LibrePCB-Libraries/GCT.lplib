@@ -1,0 +1,11 @@
+(librepcb_library abc02f43-9d05-44cd-ab26-59d8d59a775c
+ (name "GCT")
+ (description "Connectors from Global Connector Technology (unofficial).")
+ (keywords "")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2025-04-08T23:08:58Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/GCT.lplib")
+ (manufacturer "GCT")
+)
