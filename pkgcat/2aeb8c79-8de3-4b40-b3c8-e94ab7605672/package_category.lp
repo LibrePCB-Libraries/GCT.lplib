@@ -1,0 +1,10 @@
+(librepcb_package_category 2aeb8c79-8de3-4b40-b3c8-e94ab7605672
+ (name "GCT")
+ (description "")
+ (keywords "")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2025-04-08T23:26:32Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
