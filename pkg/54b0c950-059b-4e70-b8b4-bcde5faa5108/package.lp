@@ -3,7 +3,7 @@
  (description "Type C USB 2.0 receptable. 16 contacts, 5A / 48VDC (240W).")
  (keywords "usb,usb-c,usb c,usb 2.0,low speed")
  (author "U. Bruhin")
- (version "0.1.1")
+ (version "0.1.2")
  (created 2024-06-27T15:07:47Z)
  (deprecated false)
  (generated_by "")
@@ -351,6 +351,7 @@
    (vertex (position 2.89 2.605) (angle 0.0))
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_footprint_3d_model
   (footprint a5ef8276-d514-4618-8123-04ae7c6a9f78)
  )
